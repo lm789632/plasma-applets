@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://github.com/Zren/plasma-applets/tree/master/tiledmenu\n"
-"POT-Creation-Date: 2017-05-31 21:57-0400\n"
+"POT-Creation-Date: 2017-06-01 19:13+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Lin Mu <linmu789632@gmail.com>\n"
 "Language-Team: Chinese <kde-i18n-doc@kde.org>\n"
@@ -16,7 +16,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
 #: ../contents/config/config.qml:26
 msgid "General"
@@ -24,7 +23,7 @@ msgstr "一般"
 
 #: ../contents/config/config.qml:31
 msgid "Advanced"
-msgstr ""
+msgstr "高级"
 
 #: ../contents/ui/AppContextMenu.qml:68
 msgid "Unpin from Menu"
@@ -40,11 +39,11 @@ msgstr "添加到任务栏"
 
 #: ../contents/ui/config/ConfigGeneral.qml:26
 msgid "Popup"
-msgstr ""
+msgstr "弹出"
 
 #: ../contents/ui/config/ConfigGeneral.qml:29
 msgid "Fullscreen"
-msgstr ""
+msgstr "全屏"
 
 #: ../contents/ui/config/ConfigGeneral.qml:35
 msgid "Panel Icon"
@@ -166,29 +165,29 @@ msgstr "分类（应用菜单/仪表板）"
 
 #: ../contents/ui/lib/AppletVersion.qml:41
 msgid "<b>Version:</b> %1"
-msgstr ""
+msgstr "<b>版本：</b> %1"
 
-#: ../contents/ui/Main.qml:273
+#: ../contents/ui/Main.qml:283
 msgid "System Info"
 msgstr "系统信息"
 
-#: ../contents/ui/Main.qml:274
+#: ../contents/ui/Main.qml:284
 msgid "Terminal"
 msgstr "终端"
 
-#: ../contents/ui/Main.qml:276
+#: ../contents/ui/Main.qml:286
 msgid "Task Manager"
 msgstr "任务管理器"
 
-#: ../contents/ui/Main.qml:277
+#: ../contents/ui/Main.qml:287
 msgid "System Settings"
 msgstr "系统设置"
 
-#: ../contents/ui/Main.qml:278
+#: ../contents/ui/Main.qml:288
 msgid "File Manager"
 msgstr "文件管理器"
 
-#: ../contents/ui/Main.qml:280
+#: ../contents/ui/Main.qml:290
 msgid "Edit Applications..."
 msgstr "编辑应用列表"
 
@@ -316,15 +315,15 @@ msgstr "编辑磁贴"
 
 #: ../contents/ui/TileEditorView.qml:52
 msgid "Reset Tile"
-msgstr ""
+msgstr "重置磁贴"
 
 #: ../contents/ui/TileEditorView.qml:57
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 #: ../contents/ui/TileEditorView.qml:65
 msgid "Url"
-msgstr ""
+msgstr "网址"
 
 #: ../contents/ui/TileEditorView.qml:70
 msgid "Label"
@@ -332,30 +331,12 @@ msgstr "标签"
 
 #: ../contents/ui/TileEditorView.qml:77
 msgid "Icon"
-msgstr ""
+msgstr "图标"
 
 #: ../contents/ui/TileEditorView.qml:84
 msgid "Background Color"
-msgstr ""
+msgstr "背景颜色"
 
 #: ../contents/ui/TileEditorView.qml:90
 msgid "Position / Size"
-msgstr ""
-
-#~ msgid "Save"
-#~ msgstr "保存"
-
-#~ msgid "Size"
-#~ msgstr "尺寸"
-
-#~ msgid "Small"
-#~ msgstr "小号"
-
-#~ msgid "Medium"
-#~ msgstr "中等"
-
-#~ msgid "More"
-#~ msgstr "更多"
-
-#~ msgid "Settings"
-#~ msgstr "设置"
+msgstr "位置/大小"
